@@ -16,7 +16,7 @@ You are a lonley survivor after a kidnap, you are now stuck in a dungeon fightin
 - Soon
 
 ## Credits
-- MoonLightX1 (Head-Developer)
+- MoonLightX1 (CEO)
 - (Art from a itch.io page https://0x72.itch.io/dungeontileset-ii/download/eyJpZCI6MzA5MDI4LCJleHBpcmVzIjoxNjc0ODc1MTM3fQ%3d%3d.Aq4Uj1SjtXtAYT35u7R6UCdK1Z4%3d, and ...)
 - Nickolas Bogert (Head-Developer)
 
