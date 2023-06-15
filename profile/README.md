@@ -1,7 +1,7 @@
 ## King Apes INC
 
 ## Verison:
-- Beta (0.0.1)
+- Beta (0.2.1)
 
 ## Information
 King Ape's github orginazation is mainly for the teams and people who work on "King Apes" game.
