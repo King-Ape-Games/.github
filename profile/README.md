@@ -1,4 +1,4 @@
-## King Apes INC
+## King Apes
 
 ## Verison:
 - Beta (0.2.1)
