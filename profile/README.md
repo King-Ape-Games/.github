@@ -1,23 +1,28 @@
-## King Apes
+## King Ape Games
 
-## Git Information
-King Ape's GitHub organization is mainly for the files for each of the games. This can be unity files, pygame files, etc.
+## What is King Ape Games?
+King Ape Games is an indie game brand that works on making great and amazing games each day. The games are either pygame or unity/unreal engine. 
 
-## King Apes Information
-King Apes is a brand and group of people who tirelessly develop games. This can be 2d, or 3d games ranging from a lot of genres. We are new so most games are in progress. 
+## What games are in development?
+* Rogue Dungeons Volume 1
+* Life Stealer Volume 1
+* and Funky Wunky CHP.2
 
-## Website
-- In progress
+## What games have been released?
+* Funky Wunky CHP. 1
 
-## Meet the team
-- MoonLightX1 (CEO)
-- Nickolas Bogert (Head Developer)
-- Lilly Doi (CO CEO)
+## Meet higher-ups in the team
+* MoonLightX1 (CEO)
+* Lilly Doi (Co-CEO)
+* NB I (Co-CEO who quit)
 
-## Games Released
-- Funky Wunky 1
+## What is the website link?
+We are currently working on the website and should be released by 8/20/23
 
-## In Progress Games
-- Fright of Fears Chapter 1
-- King Apes Volume 1
-- Lifestealer Volume 1
+## What languages are mostly used?
+* CSS
+* HTML
+* Java Script
+* Pygame
+* C#
+* C++
