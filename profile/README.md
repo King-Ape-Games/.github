@@ -1,7 +1,7 @@
 ## King Ape Games
 
 ## What is King Ape Games?
-King Ape Games is an indie game brand that works on making great and amazing games each day. The games are either pygame or unity/unreal engine. 
+King Ape Games is an indie game brand that works on making great and amazing games each day. The games are either pygame or godot/unreal engine. 
 
 ## What games are in development?
 * Rogue Dungeons Volume 1
