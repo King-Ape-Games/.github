@@ -4,9 +4,10 @@
 King Ape Games is an indie game brand that works on making great and amazing games each day. The games are either pygame or godot/unreal engine. 
 
 ## What games are in development?
-* Rogue Dungeons Volume 1
-* Life Stealer Volume 1
-* and Funky Wunky CHP.2
+* RetroRun - PyGame
+* Rogue Dungeons - PyGame
+* Funky Wunky - PyGame
+* Rise Of E-Kittens - Unreal Engine
 
 ## What games have been released?
 * Funky Wunky CHP. 1
